@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# 36c3 Generator
+Generative Artwork for 36th Chaos Communication Congress
+[Live Version](https://36c3.bleeptrack.de)
 
-You can use the [editor on GitHub](https://github.com/z3r0bu6/36c3/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![generator screenshot](https://github.com/bleeptrack/36c3-generator/blob/master/img/screenshot.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Uses:
+[Font: Blackout](https://github.com/theleagueof/blackout)
+[Physic Engine: matter.js](https://brm.io/matter-js/)
+[Polygon Decomposing: decomp.js](https://github.com/schteppe/poly-decomp.js/)
+[Font Rendering: opentype.js](https://github.com/opentypejs/opentype.js/blob/master/README.md)
+[SVG Generation: paper.js](http://paperjs.org/)
 
-### Markdown
+# Wiki:
+[36c3 Wiki -> Design](https://events.ccc.de/congress/2019/wiki/index.php/Static:Design)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/z3r0bu6/36c3/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# License:
+[tuwat you want, but think about the omen](https://www.youtube.com/watch?v=b-_wE0mJU5Y)
